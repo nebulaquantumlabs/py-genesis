@@ -1,2 +1,2 @@
 # py-genesis
-Py-Genesis is a Python project initializer designed to streamline the setup of professional development environments.
+Py-Genesis is a Python project initializer designed to streamline the setup of professional development environments. It automates the creation of project structures, integrates with GitHub for repository management and supports modern best practices such as GitHub Flow and dependency injection. Enhanced with the Rich library for an engaging user interface, Py-Genesis helps developers start their projects efficiently with pre-configured tools for linting, testing and version control.
